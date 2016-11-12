@@ -1,2 +1,2 @@
 # math564
-Control version for final project
+Version control for final project
